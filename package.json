@@ -17,6 +17,8 @@
   "dependencies": {
     "@module-federation/nextjs-mf": "^6.0.5",
     "@next/font": "13.1.2",
+    "@sone-dao/sone-react-placeholder": "^1.2.1",
+    "@sone-dao/tone-react-containers": "^1.0.0",
     "@sone-dao/tone-react-helmet": "^0.20.1",
     "@sone-dao/tone-react-registration": "^0.3.1",
     "@sone-dao/tone-react-search": "^0.2.0",
