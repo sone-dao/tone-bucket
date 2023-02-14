@@ -1,10 +1,13 @@
 const NextFederationPlugin = require('@module-federation/nextjs-mf')
 
 const federationConfig = {
-  name: 'tone_bucket', // a-z, 0-9, and _ only!
+  name: 'tone_bucket',
   filename: 'static/chunks/remoteEntry.js',
   exposes: {
-    './someComponent': './components/SomeComponent.tsx',
+    './helmetProd': './components/HelmetProd.tsx',
+    './sidebarProd': './components/SidebarProd.tsx',
+    './registrationProd': './components/RegistrationProd.tsx',
+    './searchProd': './components/SearchProd.tsx',
   },
 }
 

@@ -1,10 +1,10 @@
 {
-  "name": "@sone-dao/tone-template-bucket",
+  "name": "@sone-dao/tone-bucket",
   "version": "1.0.0",
+  "license": "MIT",
   "engines": {
     "node": ">=18.0.0",
-    "yarn": ">=1.22.0",
-    "npm": "please-use-yarn"
+    "yarn": ">=1.22.0"
   },
   "scripts": {
     "prepare": "husky install",
@@ -17,9 +17,13 @@
   "dependencies": {
     "@module-federation/nextjs-mf": "^6.0.5",
     "@next/font": "13.1.2",
+    "@sone-dao/tone-react-helmet": "^0.20.1",
+    "@sone-dao/tone-react-registration": "^0.3.1",
+    "@sone-dao/tone-react-search": "^0.2.0",
+    "@sone-dao/tone-react-sidebar": "^0.7.0",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.2",
-    "next": "13.1.2",
+    "next": "13.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "4.9.4"
