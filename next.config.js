@@ -8,6 +8,7 @@ const federationConfig = {
     './sidebarProd': './components/SidebarProd.tsx',
     './registrationProd': './components/RegistrationProd.tsx',
     './searchProd': './components/SearchProd.tsx',
+    './uploaderProd': './components/UploaderProd.tsx',
   },
 }
 
