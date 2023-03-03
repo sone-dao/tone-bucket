@@ -438,7 +438,7 @@
   resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz#8be36a1f66f3265389e90b5f9c9962146758f728"
   integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
 
-"@sone-dao/sone-react-placeholder@1.2.1", "@sone-dao/sone-react-placeholder@^1.2.1":
+"@sone-dao/sone-react-placeholder@^1.2.1":
   version "1.2.1"
   resolved "https://npm.pkg.github.com/download/@sone-dao/sone-react-placeholder/1.2.1/9f27736d3d0a4bfddcf42ba49b08b814882ba993#9f27736d3d0a4bfddcf42ba49b08b814882ba993"
   integrity sha512-jVvv4C1hVCA2E4trE+rBvIAg1l7O0jXrL6Y9zOtxGYuT7qON0UGMjWXNkQO42gf77uza/z15AplTjt2kqr8cdA==
@@ -451,7 +451,7 @@
   resolved "https://npm.pkg.github.com/download/@sone-dao/sone-react-utils/1.0.0/2444fe1e176ad09df809b2ee801d39aa6a8d380c#2444fe1e176ad09df809b2ee801d39aa6a8d380c"
   integrity sha512-NTK3RqXea3tSjlqhQTE+qLfcBFpojT8kxYHh2eaRxCtcFjI7tOnX8Fv5Jl7v4B3Fp6QbJFwauk1UY+KEdNcpRg==
 
-"@sone-dao/tone-react-containers@1.0.0", "@sone-dao/tone-react-containers@^1.0.0":
+"@sone-dao/tone-react-containers@^1.0.0":
   version "1.0.0"
   resolved "https://npm.pkg.github.com/download/@sone-dao/tone-react-containers/1.0.0/cc1c807561d4519bda1a8ce26d1bd9de59f5debe#cc1c807561d4519bda1a8ce26d1bd9de59f5debe"
   integrity sha512-DXIeoyxRaz7V2iJHjlfoEGuz2dU6zJNwy/doB8gu93ZiRjojJZd1PCBFNsK194iGWcuV7252KZlcDY682NliVA==
@@ -493,10 +493,10 @@
     react "^18.2.0"
     react-dom "^18.2.0"
 
-"@sone-dao/tone-react-uploader@0.2.0":
-  version "0.2.0"
-  resolved "https://npm.pkg.github.com/download/@sone-dao/tone-react-uploader/0.2.0/039c58fc3545e809547e713501c2ac82715a9c4a#039c58fc3545e809547e713501c2ac82715a9c4a"
-  integrity sha512-uB3VNfhvou2sI45A+GWdRDUuAkZ5zp1lqob4wl6W/jz534J1LnUKxf6YgVXS4pEW40o7kcuYyIFa1DxCQwvuvg==
+"@sone-dao/tone-react-uploader@0.2.1":
+  version "0.2.1"
+  resolved "https://npm.pkg.github.com/download/@sone-dao/tone-react-uploader/0.2.1/25aa1301f82bd0cd102140dda889c70b71188b4d#25aa1301f82bd0cd102140dda889c70b71188b4d"
+  integrity sha512-88+FlKyu4nyIdu0DM7aozKmFXIubtBxPw39ZGoUkPXnEFmuC6EZ9QLEOAyT6I9GGuxi/cHqltZyC5SuPFZDqJA==
   dependencies:
     jszip "^3.10.1"
     localforage "^1.10.0"
