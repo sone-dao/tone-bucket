@@ -493,10 +493,10 @@
     react "^18.2.0"
     react-dom "^18.2.0"
 
-"@sone-dao/tone-react-uploader@0.2.1":
-  version "0.2.1"
-  resolved "https://npm.pkg.github.com/download/@sone-dao/tone-react-uploader/0.2.1/25aa1301f82bd0cd102140dda889c70b71188b4d#25aa1301f82bd0cd102140dda889c70b71188b4d"
-  integrity sha512-88+FlKyu4nyIdu0DM7aozKmFXIubtBxPw39ZGoUkPXnEFmuC6EZ9QLEOAyT6I9GGuxi/cHqltZyC5SuPFZDqJA==
+"@sone-dao/tone-react-uploader@0.3.0":
+  version "0.3.0"
+  resolved "https://npm.pkg.github.com/download/@sone-dao/tone-react-uploader/0.3.0/a30c647c4219444ee5f6f51b6dab96e11f563393#a30c647c4219444ee5f6f51b6dab96e11f563393"
+  integrity sha512-nXDbC/YsxrotuS/ZS0w6nzLcPdTJOUW8Lta+cDbFPscYLMpvNdeXfrbRr2aT1vJs3JuIpeIOnLGskNQPJLnoKw==
   dependencies:
     jszip "^3.10.1"
     localforage "^1.10.0"
